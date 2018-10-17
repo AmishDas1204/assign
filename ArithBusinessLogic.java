@@ -5,7 +5,7 @@ package com.junit.egg;
 public class ArithBusinessLogic {
 
     //changes here done
-    
+    //new changes
     private int a, b;
     public ArithBusinessLogic(int a, int b)
     {
