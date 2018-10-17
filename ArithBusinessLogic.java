@@ -3,6 +3,9 @@ package com.junit.egg;
  * Created by ADMIN on 7/28/17.
  */
 public class ArithBusinessLogic {
+
+    //changes here done
+    
     private int a, b;
     public ArithBusinessLogic(int a, int b)
     {
